@@ -35,5 +35,5 @@ I am Mohamed Elhofy, a **Computer and Communication Engineer** passionate about 
 I am open to working on innovative software projects, diving deeper into machine learning challenges, and exploring new advancements in robotics. Feel free to connect or contribute to my repositories!  
 
 🔗 **LinkedIn**: [linkedin.com/in/mohamedelhofy](https://www.linkedin.com/in/mohamedelhofy)  
-📧 **Emial**: [alhofymohamed@gmail.com](alhofymohamed@gmail.com)   
-📞 **Telephone**: [01016571431](01016571431) 
+📧 **Email**: [alhofymohamed@gmail.com](mailto:alhofymohamed@gmail.com)  
+📞 **Phone**: [+20 101 657 1431](tel:+201016571431)  
